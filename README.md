@@ -4,6 +4,16 @@ The interactive agentic user interface for the FinQuant RAG platform. Built usin
 
 ---
 
+## 📺 Application Demo
+
+See the system ingest financial reports and answer questions in real-time.
+
+### Watch the Demo
+* **Video Walkthrough:** 📥 **[Click here to play `FinQuant AI Demo`](./FinQuant AI Demo.mov)**
+* Please download the video file to play if it doesn't play in the browser.
+
+---  
+
 ## 🛠️ Architecture & Features
 
 * **Execution Hub:** Optimized layout contrasting user prompts (bright white) from agent analysis outputs (soft slate).
